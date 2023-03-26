@@ -9,8 +9,11 @@ npm i
 npm run dev
 ```
 
-🌐 HostIn: [http://localhost:3000](http://localhost:3000).
+🌐 HostIn: [local](http://localhost:3000).
 
 ### `Techs`
 
 NextJS | Redux | Jest | Strapi CMS | Typescript | Tailwind css
+
+**_ Svg images db _**
+(❁´◡`❁) [undraw](https://undraw.co/).
